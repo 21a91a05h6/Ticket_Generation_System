@@ -72,7 +72,7 @@ app.post('/bookinginfo',(req,res,next)=>{
       service: 'gmail',
       auth: {
         user: 'polisettisridivyaprabha@gmail.com',
-        pass: 'bais ntrv ergs jenq'
+        pass: ''
       }
     });
     
