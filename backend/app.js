@@ -71,7 +71,7 @@ app.post('/bookinginfo',(req,res,next)=>{
     var transporter = nodemailer.createTransport({
       service: 'gmail',
       auth: {
-        user: 'polisettisridivyaprabha@gmail.com',
+        user: '',
         pass: ''
       }
     });
