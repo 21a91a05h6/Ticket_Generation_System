@@ -54,8 +54,8 @@ function Login(){
                             </FormGroup>
                             {/* <Button><Link to='/ac' style={{color:'white', textDecoration:'none'}}>Login</Link></Button> */}
                             <input type="submit" value="Login"/><br/>
-                            <Link to='/adminlogin'>Admin Login</Link><br/>
-                            <Link to='/workerlogin'>Worker Login</Link>
+                            <Link to='/adminlogin' target="_blank">Admin Login</Link><br/>
+                            <Link to='/workerlogin' target="_blank">Worker Login</Link>
                         </Form>
                     </CardText>
                     
